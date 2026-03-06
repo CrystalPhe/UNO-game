@@ -85,5 +85,5 @@ Main components of the system include:
 - `PlayCardCommand`, `DrawCardCommand`, `ShowHandCommand` – Gameplay commands
 
 Class Diagram:
-<img width="975" height="1126" alt="image" src="https://github.com/user-attachments/assets/ccfa5558-aa1c-4ff4-8ea2-fbf9eceb0fde" />
+<img width="500" alt="classdiagram" src="https://github.com/user-attachments/assets/ccfa5558-aa1c-4ff4-8ea2-fbf9eceb0fde" />
 
