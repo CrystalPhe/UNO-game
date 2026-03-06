@@ -1,0 +1,28 @@
+D:\swinburne\OOP\FINAL TEST\bin\Debug\net8.0\FINAL TEST.exe
+D:\swinburne\OOP\FINAL TEST\bin\Debug\net8.0\FINAL TEST.deps.json
+D:\swinburne\OOP\FINAL TEST\bin\Debug\net8.0\FINAL TEST.runtimeconfig.json
+D:\swinburne\OOP\FINAL TEST\bin\Debug\net8.0\FINAL TEST.dll
+D:\swinburne\OOP\FINAL TEST\bin\Debug\net8.0\FINAL TEST.pdb
+D:\swinburne\OOP\FINAL TEST\obj\Debug\net8.0\FINAL TEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\swinburne\OOP\FINAL TEST\obj\Debug\net8.0\FINAL TEST.AssemblyInfoInputs.cache
+D:\swinburne\OOP\FINAL TEST\obj\Debug\net8.0\FINAL TEST.AssemblyInfo.cs
+D:\swinburne\OOP\FINAL TEST\obj\Debug\net8.0\FINAL TEST.csproj.CoreCompileInputs.cache
+D:\swinburne\OOP\FINAL TEST\obj\Debug\net8.0\FINAL TEST.dll
+D:\swinburne\OOP\FINAL TEST\obj\Debug\net8.0\refint\FINAL TEST.dll
+D:\swinburne\OOP\FINAL TEST\obj\Debug\net8.0\FINAL TEST.pdb
+D:\swinburne\OOP\FINAL TEST\obj\Debug\net8.0\FINAL TEST.genruntimeconfig.cache
+D:\swinburne\OOP\FINAL TEST\obj\Debug\net8.0\ref\FINAL TEST.dll
+D:\Working_Swinburne\OOP\FINAL\bin\Debug\net8.0\FINAL TEST.exe
+D:\Working_Swinburne\OOP\FINAL\bin\Debug\net8.0\FINAL TEST.deps.json
+D:\Working_Swinburne\OOP\FINAL\bin\Debug\net8.0\FINAL TEST.runtimeconfig.json
+D:\Working_Swinburne\OOP\FINAL\bin\Debug\net8.0\FINAL TEST.dll
+D:\Working_Swinburne\OOP\FINAL\bin\Debug\net8.0\FINAL TEST.pdb
+D:\Working_Swinburne\OOP\FINAL\obj\Debug\net8.0\FINAL TEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working_Swinburne\OOP\FINAL\obj\Debug\net8.0\FINAL TEST.AssemblyInfoInputs.cache
+D:\Working_Swinburne\OOP\FINAL\obj\Debug\net8.0\FINAL TEST.AssemblyInfo.cs
+D:\Working_Swinburne\OOP\FINAL\obj\Debug\net8.0\FINAL TEST.csproj.CoreCompileInputs.cache
+D:\Working_Swinburne\OOP\FINAL\obj\Debug\net8.0\FINAL TEST.dll
+D:\Working_Swinburne\OOP\FINAL\obj\Debug\net8.0\refint\FINAL TEST.dll
+D:\Working_Swinburne\OOP\FINAL\obj\Debug\net8.0\FINAL TEST.pdb
+D:\Working_Swinburne\OOP\FINAL\obj\Debug\net8.0\FINAL TEST.genruntimeconfig.cache
+D:\Working_Swinburne\OOP\FINAL\obj\Debug\net8.0\ref\FINAL TEST.dll
